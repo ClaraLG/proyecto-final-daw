@@ -1,0 +1,29 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "Proyecto final del Ciclo Superior de Desarrollo de Aplicaciones Web",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch assets/scss:assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjesusmb/Proyecto.git"
+  },
+  "keywords": [
+    "php",
+    "mysql",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Juan Ramón García, Maria Jesús Maciá, Juan Bello, Clara Garnes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjesusmb/Proyecto/issues"
+  },
+  "homepage": "https://github.com/mjesusmb/Proyecto#readme",
+  "devDependencies": {
+    "sass": "^1.56.1"
+  }
+}

@@ -1,0 +1,17 @@
+//JUMAC theme colors
+//Primary
+$red: #F13D3D;
+$orange: #F7A530;
+$navy: #102237;
+//Secondary
+$grey: #737373;
+$aqua: #00A19A;
+
+//Customer theme colors
+$dark-aqua: #004652;
+$dark-orange: #CF6A2A;
+
+//Overriding Bootstrap color variables
+$primary: $red;
+$secondary: $orange;
+$dark: $navy;
